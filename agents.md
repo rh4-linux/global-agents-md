@@ -1,5 +1,10 @@
 # Agent Instructions
 
+## This File
+
+`~/agents.md` is a symlink to `~/projects/global-agents-md/agents.md`, which is a public git repo at https://github.com/rh4-linux/global-agents-md.
+Use `make push` to save changes, `make upgrade` to pull latest (auto-backs up first).
+
 ## Docker Projects
 
 - All Docker projects must be placed in `~/docker-apps/`
